@@ -1,4 +1,4 @@
-# ReactSchool-React--IntroClassComponent
+# ReactSchool[2]-ReactIntro--IntroClassComponent
 Project in Visual Studio Code. To run it, run the command "npm install" in the directory where the package.json file is located.
 
 ## Exercise
